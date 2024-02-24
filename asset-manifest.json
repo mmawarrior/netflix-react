@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mmawarrior/netflix-react/static/css/main.6b9f2ed6.css",
+    "main.js": "/mmawarrior/netflix-react/static/js/main.000225ee.js",
+    "index.html": "/mmawarrior/netflix-react/index.html",
+    "main.6b9f2ed6.css.map": "/mmawarrior/netflix-react/static/css/main.6b9f2ed6.css.map",
+    "main.000225ee.js.map": "/mmawarrior/netflix-react/static/js/main.000225ee.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6b9f2ed6.css",
+    "static/js/main.000225ee.js"
+  ]
+}
